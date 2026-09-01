@@ -1,0 +1,5 @@
+name,ip,status
+web-01,192.168.1.11,running
+web-02,192.168.1.12,running
+db-01,192.168.1.21,stopped
+cache-01,192.168.1.31,running

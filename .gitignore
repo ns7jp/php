@@ -1,0 +1,13 @@
+# 演習・capstoneを実行するたびに自動生成される出力ファイル
+# (ソースではなく実行結果なので、リポジトリには含めません)
+/exercises/08_file_io/app.log
+/exercises/09_csv_json/servers.json
+/exercises/09_csv_json/servers_out.csv
+/exercises/12_pdo_mysql/servers.db
+/exercises/14_exception_errorlog/error.log
+/capstone/server_monitor_dashboard/report.html
+/capstone/server_monitor_dashboard/error.log
+
+# OS / エディタ由来のファイル
+.DS_Store
+Thumbs.db
